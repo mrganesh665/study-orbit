@@ -28,7 +28,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://study-orbit.vercel.app",
+      "https://frontend-six-eta-2stoxdm97p.vercel.app/",
       // BUGFIX: allow overriding/extending allowed origins via env instead of
       // only ever supporting two hardcoded URLs (was causing CORS-driven
       // "connection reset" style failures whenever the app was deployed to
