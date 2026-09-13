@@ -251,12 +251,12 @@ const Footer = () => {
             <div className="flex">
               <span> Made with ❤️</span>
               <a
-                href="https://github.com/v662-coder"
+                href="https://github.com/mrganesh665"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-white hover:underline mr-1"
               >
-                Vishnu Chaurasiya
+                Ganesh Chaurasiya
               </a>
             </div>
             <span> © 2026 StudyOrbit</span>
@@ -264,7 +264,7 @@ const Footer = () => {
 
           <div className="flex items-center">
             <a
-              href="https://www.linkedin.com/in/vishnu-chaurasiya-1210-/"
+              href="https://www.linkedin.com/in/ganesh-066a76216/"
               className="text-white p-3 hover:bg-richblack-700 rounded-full duration-300"
               target="_blank"
               rel="noopener noreferrer"
@@ -272,7 +272,7 @@ const Footer = () => {
               <ImLinkedin2 size={17} />
             </a>
             <a
-              href="https://github.com/v662-coder"
+              href="https://github.com/mrganesh665"
               className="text-white p-3 hover:bg-richblack-700 rounded-full duration-300"
               target="_blank"
               rel="noopener noreferrer"
