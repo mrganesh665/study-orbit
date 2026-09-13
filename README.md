@@ -146,5 +146,5 @@ This project is licensed under the MIT License.
 
 ## 🙋 Author
 
-**Vishnu Chaurasiya**
-Full Stack (MERN) Developer, Gorakhpur, Uttar Pradesh, India
+**Ganesh Chaurasiya**
+Full Stack (MERN) Developer, Khalilabad, Uttar Pradesh, India
